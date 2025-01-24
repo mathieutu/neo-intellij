@@ -35,9 +35,18 @@ dependencies {
         bundledPlugin("org.toml.lang")
         bundledPlugin("org.intellij.plugins.markdown")
         // https://plugins.jetbrains.com/plugin/227-psiviewer/versions
-        plugin("PsiViewer", "243.7768")
-        plugin("com.github.voml.neo_theme", "0.4.2")
         instrumentationTools()
+        // plugin("org.intellij.scala")
+        // org.intellij.scala:2024.1.20,\
+        // com.jetbrains.rust:241.25989.180,\
+        // net.masterthought.dlanguage:1.33.1,\
+        // com.jetbrains.nim:1.5.4-223,\
+        // com.falsepattern.zigbrains:14.2.0-241,\
+        // org.ice1000.julia:0.4.2,\
+        // Pythonid:241.17011.2,\
+        // com.kishmakov.mojo:0.1.8,\
+        // Valkyrie:0.1.1,\
+        // wit:0.1.0
     }
 }
 
