@@ -2,6 +2,8 @@
 
 # Neo Changelog
 
+## [Unreleased]
+
 ## [0.4.2]
 ### Changed
 - Improve neo light contrast, no longer use beige background
