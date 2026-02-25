@@ -1,10 +1,8 @@
 <scheme name="Neo Light" version="142" parent_scheme="Default">
 	<option name="FONT_SCALE" value="1.0"/>
 	<metaInfo>
-		<property name="created">2020-09-09T12:16:00</property>
-		<property name="ide">idea</property>
-		<property name="ideVersion">2023.3.0.0</property>
-		<property name="modified">2023-09-29T08:16:31</property>
+		<property name="ide">JetBrainsClient</property>
+		<property name="ideVersion">2024.1.2.0.0</property>
 	</metaInfo>
 	<option name="LINE_SPACING" value="1.2"/>
 	<option name="EDITOR_FONT_SIZE" value="14"/>
@@ -60,26 +58,7 @@
 		<option name="DOCUMENTATION_COLOR" value="eaeaeb"/>
 		<option name="DOC_COMMENT_GUIDE" value="9d9d9f"/>
 		<option name="DOC_COMMENT_LINK" value="184bc"/>
-		<option name="FILESTATUS_ADDED" value="50a14e"/>
-		<option name="FILESTATUS_COPIED" value="50a14e"/>
-		<option name="FILESTATUS_DELETED" value="a0a1a7"/>
-		<option name="FILESTATUS_HIJACKED" value="a626a4"/>
-		<option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7"/>
-		<option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4"/>
-		<option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347"/>
-		<option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347"/>
-		<option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347"/>
-		<option name="FILESTATUS_MERGED" value="4078f2"/>
-		<option name="FILESTATUS_MODIFIED" value="986801"/>
-		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2"/>
-		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2"/>
-		<option name="FILESTATUS_RENAMED" value="a626a4"/>
-		<option name="FILESTATUS_SUPPRESSED" value="383a42"/>
-		<option name="FILESTATUS_SWITCHED" value="4078f2"/>
-		<option name="FILESTATUS_UNKNOWN" value="f77669"/>
-		<option name="FILESTATUS_addedOutside" value="57b6c2"/>
-		<option name="FILESTATUS_changelistConflict" value="ff6347"/>
-		<option name="FILESTATUS_modifiedOutside" value="4078f2"/>
+		<option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="986801"/>
 		<option name="FOLDED_TEXT_BORDER_COLOR" value="e5e5e5"/>
 		<option name="GUTTER_BACKGROUND" value="fafafa"/>
 		<option name="INDENT_GUIDE" value="d3d4d5"/>
@@ -101,33 +80,6 @@
 		<option name="METHOD_SEPARATORS_COLOR" value="d3d4d5"/>
 		<option name="MODIFIED_LINES_COLOR" value="526fff"/>
 		<option name="MODIFIED_TAB_ICON" value="2979ff"/>
-		<option name="MT_ADDED" value="73c990"/>
-		<option name="MT_DELETED" value="ff6347"/>
-		<option name="MT_FILESTATUS_ADDED" value="50a14e"/>
-		<option name="MT_FILESTATUS_COPIED" value="50a14e"/>
-		<option name="MT_FILESTATUS_DELETED" value="a0a1a7"/>
-		<option name="MT_FILESTATUS_HIJACKED" value="a626a4"/>
-		<option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7"/>
-		<option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4"/>
-		<option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347"/>
-		<option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347"/>
-		<option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347"/>
-		<option name="MT_FILESTATUS_MERGED" value="4078f2"/>
-		<option name="MT_FILESTATUS_MODIFIED" value="986801"/>
-		<option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2"/>
-		<option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2"/>
-		<option name="MT_FILESTATUS_RENAMED" value="a626a4"/>
-		<option name="MT_FILESTATUS_SUPPRESSED" value="383a42"/>
-		<option name="MT_FILESTATUS_SWITCHED" value="4078f2"/>
-		<option name="MT_FILESTATUS_UNKNOWN" value="f77669"/>
-		<option name="MT_FILESTATUS_addedOutside" value="57b6c2"/>
-		<option name="MT_FILESTATUS_changelistConflict" value="ff6347"/>
-		<option name="MT_FILESTATUS_modifiedOutside" value="4078f2"/>
-		<option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4"/>
-		<option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967"/>
-		<option name="MT_MODIFIED" value="e2c08d"/>
-		<option name="MT_RENAMED" value="6494ed"/>
-		<option name="MT_SUPPRESSED" value="383a42"/>
 		<option name="MnemonicIcon.background" value="e5e5e6"/>
 		<option name="MnemonicIcon.borderColor" value="e5e5e6"/>
 		<option name="MnemonicIcon.foreground" value="232324"/>
@@ -198,12 +150,12 @@
 				<option name="FOREGROUND" value="50a14e"/>
 			</value>
 		</option>
-		<option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA"/>
-		<option name="ANNOTATION_NAME_ATTRIBUTES">
+		<option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
 			<value>
-				<option name="FOREGROUND" value="4078f2"/>
+				<option name="FOREGROUND" value="e4564a"/>
 			</value>
 		</option>
+		<option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA"/>
 		<option name="APACHE_CONFIG.ARG_LEXEM">
 			<value>
 				<option name="FOREGROUND" value="50a14e"/>
@@ -526,7 +478,6 @@
 		<option name="DEFAULT_ATTRIBUTE">
 			<value>
 				<option name="FOREGROUND" value="c18401"/>
-				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
 		<option name="DEFAULT_BLOCK_COMMENT">
@@ -596,7 +547,7 @@
 		</option>
 		<option name="DEFAULT_ENTITY">
 			<value>
-				<option name="FOREGROUND" value="c18401"/>
+				<option name="FOREGROUND" value="20999d"/>
 			</value>
 		</option>
 		<option name="DEFAULT_FUNCTION_CALL">
@@ -629,11 +580,13 @@
 		<option name="DEFAULT_INSTANCE_FIELD">
 			<value>
 				<option name="FOREGROUND" value="e4564a"/>
+				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
 		<option name="DEFAULT_INSTANCE_METHOD">
 			<value>
 				<option name="FOREGROUND" value="4078f2"/>
+				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
 		<option name="DEFAULT_INTERFACE_NAME">
@@ -697,7 +650,7 @@
 		</option>
 		<option name="DEFAULT_PREDEFINED_SYMBOL">
 			<value>
-				<option name="FOREGROUND" value="4078f2"/>
+				<option name="FOREGROUND" value="20999d"/>
 				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
@@ -723,13 +676,11 @@
 		<option name="DEFAULT_STATIC_FIELD">
 			<value>
 				<option name="FOREGROUND" value="e4564a"/>
-				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
 		<option name="DEFAULT_STATIC_METHOD">
 			<value>
 				<option name="FOREGROUND" value="4078f2"/>
-				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
 		<option name="DEFAULT_STRING">
@@ -841,9 +792,6 @@
 				<option name="EFFECT_TYPE" value="1"/>
 			</value>
 		</option>
-		<option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
-		<option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING"/>
-		<option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER"/>
 		<option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
 			<value>
 				<option name="FOREGROUND" value="e4564a"/>
@@ -1389,7 +1337,31 @@
 				<option name="EFFECT_TYPE" value="5"/>
 			</value>
 		</option>
-		<option name="JULIA_FLOAT_LIT" baseAttributes="DEFAULT_PREDEFINED_SYMBOL"/>
+		<option name="JULIA_FLOAT_LIT">
+			<value>
+				<option name="FOREGROUND" value="577f9d"/>
+				<option name="FONT_TYPE" value="2"/>
+			</value>
+		</option>
+		<option name="JULIA_KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER"/>
+		<option name="JULIA_MACRO_NAME">
+			<value>
+				<option name="FOREGROUND" value="20999d"/>
+			</value>
+		</option>
+		<option name="JULIA_MACRO_REFERENCE">
+			<value>
+				<option name="FOREGROUND" value="20999d"/>
+				<option name="FONT_TYPE" value="2"/>
+			</value>
+		</option>
+		<option name="JULIA_QUOTE_NAME">
+			<value>
+				<option name="FOREGROUND" value="20999d"/>
+				<option name="BACKGROUND" value="fafafa"/>
+				<option name="EFFECT_TYPE" value="5"/>
+			</value>
+		</option>
 		<option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
 			<value>
 				<option name="FOREGROUND" value="232324"/>
@@ -1399,11 +1371,6 @@
 		<option name="JUPYTER_SELECTED_CELL">
 			<value>
 				<option name="BACKGROUND" value="eaeaeb"/>
-			</value>
-		</option>
-		<option name="KOTLIN_ANNOTATION">
-			<value>
-				<option name="FOREGROUND" value="4078f2"/>
 			</value>
 		</option>
 		<option name="KOTLIN_ARROW">
@@ -3012,6 +2979,7 @@
 				<option name="FOREGROUND" value="219598"/>
 			</value>
 		</option>
+		<option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL"/>
 		<option name="PY.DECORATOR">
 			<value>
 				<option name="FOREGROUND" value="4078f2"/>
@@ -3022,24 +2990,18 @@
 				<option name="FOREGROUND" value="e4564a"/>
 			</value>
 		</option>
-		<option name="PY.KEYWORD">
-			<value>
-				<option name="FOREGROUND" value="a626a4"/>
-				<option name="FONT_TYPE" value="2"/>
-			</value>
-		</option>
-		<option name="PY.KEYWORD_ARGUMENT">
-			<value>
-				<option name="FOREGROUND" value="383a42"/>
-			</value>
-		</option>
+		<option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER"/>
 		<option name="PY.NONE">
 			<value>
 				<option name="FOREGROUND" value="986801"/>
 			</value>
 		</option>
-		<option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL"/>
-		<option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL"/>
+		<option name="PY.PREDEFINED_DEFINITION">
+			<value>
+				<option name="FOREGROUND" value="a626a4"/>
+				<option name="FONT_TYPE" value="2"/>
+			</value>
+		</option>
 		<option name="PY.PRINT">
 			<value>
 				<option name="FOREGROUND" value="219598"/>
@@ -3047,7 +3009,7 @@
 		</option>
 		<option name="PY.SELF_PARAMETER">
 			<value>
-				<option name="FOREGROUND" value="e4564a"/>
+				<option name="FOREGROUND" value="a626a4"/>
 				<option name="FONT_TYPE" value="2"/>
 			</value>
 		</option>
@@ -3847,6 +3809,36 @@
 			<value>
 				<option name="FOREGROUND" value="11c4c6"/>
 				<option name="FONT_TYPE" value="1"/>
+			</value>
+		</option>
+		<option name="VALKYRIE.INTEGER">
+			<value>
+				<option name="FOREGROUND" value="986801"/>
+			</value>
+		</option>
+		<option name="VALKYRIE.KEYWORD">
+			<value>
+				<option name="FOREGROUND" value="a626a4"/>
+			</value>
+		</option>
+		<option name="VALKYRIE.SYM_ARG">
+			<value>
+				<option name="FOREGROUND" value="e4564a"/>
+				<option name="EFFECT_COLOR" value="4078f2"/>
+				<option name="EFFECT_TYPE" value="1"/>
+			</value>
+		</option>
+		<option name="VALKYRIE.SYM_FIELD_SUPER">
+			<value>
+				<option name="FOREGROUND" value="e4564a"/>
+				<option name="FONT_TYPE" value="3"/>
+			</value>
+		</option>
+		<option name="VALKYRIE.SYM_STRUCTURE">
+			<value>
+				<option name="FOREGROUND" value="e2931d"/>
+				<option name="EFFECT_COLOR" value="e2931d"/>
+				<option name="EFFECT_TYPE" value="1"/>
 			</value>
 		</option>
 	</attributes>

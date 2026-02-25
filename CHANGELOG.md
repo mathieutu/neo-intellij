@@ -2,6 +2,19 @@
 
 # Neo Changelog
 
+## [Unreleased]
+
+## [0.4.2]
+### Changed
+- Improve neo light contrast, no longer use beige background
+- Add blue underline for `Angular` signal
+- Make `labels:` in language **bold**.
+- Make `&ClassReference` in language *italic*
+### Fixed
+- Fixed the problem of search box being very tall
+- Fixed `Groovy` method color missing
+- Fixed `Julia` macro incorrectly rendered as method
+
 ## [0.4.1]
 ### Fixed
 - Fix color parse error([#9](https://github.com/oovm/neo-intellij/issues/9))

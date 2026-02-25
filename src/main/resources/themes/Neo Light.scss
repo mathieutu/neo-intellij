@@ -1,0 +1,29 @@
+:root {
+    --select_line: #4078F260;
+    --select_text: #000000;
+    --select_line_inactive: #4078F240;
+    --select_text_inactive: #333333;
+}
+
+// Tree Structure View 使用的样式
+// https://github.com/JetBrains/intellij-community/blob/e3a963b281e7b2b099201ca4c5c113dd64f15a1d/platform/platform-resources/src/themes/metadata/IntelliJPlatform.themeMetadata.json#L1725
+// https://github.com/JetBrains/intellij-community/blob/e3a963b281e7b2b099201ca4c5c113dd64f15a1d/platform/platform-resources/src/themes/metadata/JDK.themeMetadata.json#L1391
+#Tree {
+    // 鼠标选中的背景色
+    --selectionBackground: var(--select_line);
+    // 鼠标移开后的背景色
+    --selectionInactiveBackground: var(--select_line_inactive);
+    // 鼠标选中的文字色
+    --selectionForeground: var(--select_text);
+    // 鼠标移开后的文字色, 只在 Structure View 生效
+    --selectionInactiveForeground: var(--select_text_inactive);
+}
+
+// 自动完成
+#CompletionPopup {
+    #Advertiser {
+
+    }
+    // 默认选中的背景色
+    --selectionInactiveBackground: #E3F7E7
+}
